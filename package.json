@@ -12,7 +12,7 @@
   "author": "Froosty",
   "license": "ISC",
   "dependencies": {
-    "canvas-constructor": "github:kyranet/canvasConstructor#2.0",
+    "canvas-constructor": "github:kyranet/canvasConstructor#v4.1.0",
     "discord.js": "^11.2.1",
     "firebase": "^4.3.1",
     "firebase-admin": "^5.2.1",
